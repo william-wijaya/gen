@@ -1,0 +1,19 @@
+{
+    "name": "plum/gen",
+    "keywords": [
+        "code", "gen", "generation", "writer",
+        "compile", "compiler", "compilation"
+    ],
+    "authors": [
+        {
+            "name": "William Wijaya",
+            "email": "tamanmini@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": { "Plum\\Gen\\": "" }
+    }
+}
